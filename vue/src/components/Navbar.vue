@@ -9,7 +9,7 @@
           <i class="far fa-user"></i>
           <i class="fas fa-cart-plus"></i>
           <i class="fas fa-search"></i>
-          <h1>AAAAA</h1>
+          <h1>RADEEEEEEEE</h1>
         </div>
       </div>
     </nav>
