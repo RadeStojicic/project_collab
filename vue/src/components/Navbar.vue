@@ -11,6 +11,8 @@
           <i class="fas fa-search"></i>
           <h1>NIKOLAAAAAAAAAAAA</h1>
           <h1>RADEEEEEEEEEEEE</h1>
+          <h1>RADEEEEEEEEEEEE</h1>
+          <h1>RADEEEEEEEEEEEE</h1>
           <h2>DA</h2>
         </div>
       </div>
