@@ -10,7 +10,7 @@
           <i class="fas fa-cart-plus"></i>
           <i class="fas fa-search"></i>
           <h1>RADEEEEEEEE</h1>
-          <h2>NIKOLAAAAAAAA</h2>
+          <h2>DA</h2>
         </div>
       </div>
     </nav>
@@ -51,4 +51,4 @@ nav {
   flex: 1;
   margin-left: 40px;
 }
-</style>
+</style> 
