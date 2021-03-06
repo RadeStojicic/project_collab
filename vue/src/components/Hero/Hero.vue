@@ -41,8 +41,7 @@ export default {
     font-size: 3.5rem;
 }
 .main-text {
-    color: rgb(15, 166, 172);
-    background-color: rgb(37, 57, 75);
+    color:white;
 
 }
 </style>

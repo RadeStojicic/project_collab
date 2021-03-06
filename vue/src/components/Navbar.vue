@@ -3,26 +3,37 @@
     <nav>
       <div class="nav-container"> 
         <div class="left">
-          <i class="fas fa-bars"></i>
+          <i @click="showNav" class="fas fa-bars">{{text}}</i>
         </div>
         <div class="right">
           <i class="far fa-user"></i>
           <i class="fas fa-cart-plus"></i>
           <i class="fas fa-search"></i>
-          <h1>NIKOLAAAAAAAAAAAA</h1>
-          <h1>RADEEEEEEEEEEEE</h1>
-          <h1>RADEEEEEEEEEEEE</h1>
-          <h1>RADEEEEEEEEEEEE</h1>
-          <h2>DA</h2>
         </div>
       </div>
     </nav>
+      <div style="display: none">
+        <h1>Rade</h1>
+        <h1>Rade</h1>
+        <h1>Rade</h1>
+        <h1>Rade</h1>
+        <h1>Rade</h1>
+      </div>
   </div>
 </template>
 
 <script>
 export default {
-
+  data() {
+    return {
+      text: ""
+    }
+  },
+  methods: {
+    showNav() {
+    
+    }
+  }
 }
 </script>
 
